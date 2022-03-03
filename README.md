@@ -1,0 +1,2 @@
+# Genshin_Fandom_Voice_Download
+从Fandom下载原神的全角色中文语音
